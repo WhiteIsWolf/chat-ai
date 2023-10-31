@@ -1,4 +1,7 @@
-只需要将这两个变量更换为自己的就k可以使用了。
+
+you can get the answer from chat-ai trained by Baidu.
+
+you only need to change the key and password below:
 
 API_KEY = "your_key"  
 
